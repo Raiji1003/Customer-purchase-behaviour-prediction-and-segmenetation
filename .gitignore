@@ -1,0 +1,6 @@
+data/*.xlsx
+data/*.csv
+*.joblib
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
